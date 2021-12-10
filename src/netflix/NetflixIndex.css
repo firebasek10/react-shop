@@ -1,0 +1,16 @@
+.backimage {
+    background-image: url("netflixback.jpg");
+    background-size: cover;
+}
+.backcolor {
+    background-color: rgba(0,0,0,0.5);
+    width: 100%;
+    height: 700px;
+    color:white;
+    font-family: Arial;
+    margin-top: -100px;
+}
+.background {
+    background-image: url("netflixback.jpg");
+
+}
