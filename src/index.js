@@ -7,9 +7,19 @@ import reportWebVitals from './reportWebVitals';
 // import DataBindingComponent from './components/DataBindingComponent'
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import "bootstrap-icons/font/bootstrap-icons.css";
+// import ShoppingIndexComponent from './shopping/ShoppingIndexComponent';
+// import FakestoreDemoComponent from './components/FakestoreDemoComponent';
 // import ReducerDemoComponent from './components/ReducerDemoComponent';
-import LoginComponent from './components/LoginComponent';
+// import LoginComponent from './components/LoginComponent';
 import { CookiesProvider } from 'react-cookie';
+import IshopIndexComponent from './ishop/IshopIndexComponent';
+// import FormikValidationComponent from './components/FormikValidationComponent';
+// import YupValidationDemo from './components/YupValidationDemo';
+// import FormikValidationComponent from './components/FormikValidationComponent';
+// import FormikValidationComponenttwo from './components/FormikValidationComponenttwo';
+// import FormikDemoComponent from './components/FormikDemoComponent';
+// import ValidationDemoComponent from './components/ValidationDemoComponent';
+// import FormDemoComponent from './components/FormDemoComponent';
 // import FunctionLifeCycleComponent from './components/FunctionLifeCycleComponent';
 // import ContextDemoComponent from './components/ContextDemoComponent';
 // import ContextUpdateComponent from './components/ContextUpdateComponent';
@@ -39,7 +49,7 @@ import { CookiesProvider } from 'react-cookie';
 ReactDOM.render(
   <React.StrictMode>
      <CookiesProvider>
-     <LoginComponent/>
+     <IshopIndexComponent/>
 
 </CookiesProvider>
 </React.StrictMode>,

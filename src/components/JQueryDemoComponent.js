@@ -85,7 +85,7 @@ export default function JQueryDemoComponent() {
                   <div className="card-header" style={{ height: "120px" }}>
                     {product.title}
                   </div>
-                  <div className="card-body">
+                  <div className="card-body"> 
                     <p>{product.price}</p>
                   </div>
                   <div className="card-footer">
